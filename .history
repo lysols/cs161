@@ -1,0 +1,96 @@
+#+1420963485
+mkdir week1
+#+1420963521
+vim animal.cpp
+#+1420964684
+cat /etc/issue
+#+1420964735
+whereis vim
+#+1420964742
+vim: /usr/bin/vim /usr/share/vim /usr/share/man/man1/vim.1.gz
+#+1420964795
+g++ animal.cpp -o animal
+#+1420965086
+netstat -anp
+#+1420965177
+netstat -anp | grep ssh
+#+1420966620
+quit
+#+1421030452
+cd week1
+#+1421030461
+./animal
+#+1421030757
+Terminal type? [xterm]quit
+#+1421590290
+mkdir week2
+#+1421597215
+cd weed2
+#+1421597261
+vim randNums
+#+1421597312
+; s
+#+1421597356
+vim -r randNums.cpp
+#+1421597992
+g++ randNums.cpp randNums
+#+1421605002
+g++ ticketIncome.cpp -o ticketIncome
+#+1421605432
+vim -r ticketIncome.cpp
+#+1421634945
+cd week2
+#+1421636228
+cpp loanPayments.cpp -o loanPayments
+#+1421638429
+g++ loanPayments.cpp -o loanPayments
+#+1421643467
+rm loanPayments
+#+1421643479
+rm randNums
+#+1421643489
+rm tempConvert
+#+1421643495
+rm ticketIncome
+#+1421643530
+make
+#+1421643700
+randNums.cpp
+#+1421644204
+g++ randNums.cpp -o randNums
+#+1421644227
+vim randNums.cpp
+#+1421644251
+vim tempConvert
+#+1421644274
+vim tempConvert.cpp
+#+1421644349
+vim ticketIncome.cpp
+#+1421644390
+vim loanPayments.cpp
+#+1421644418
+./randNums
+#+1421644431
+./tempConvert
+#+1421644443
+./ticketIncome
+#+1421644455
+./loanPayments
+#+1421645081
+exit
+#+1422158783
+cd
+#+1422158811
+mkdir week3
+#+1422158816
+cd week3
+#+1422159281
+vim matterState
+#+1422161725
+ls
+#+1422162922
+g++ matterState.cpp -o matterState
+#+1422162926
+./matterState
+#+1422162932
+vim matterState.cpp
