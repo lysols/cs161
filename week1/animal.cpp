@@ -1,7 +1,7 @@
 /*************************************************
  * Author: Alex Traut
  * DATE: 1/11/15
- * Description: A program to show your favorite animal
+ * Description: A program to show your favorite animal.
 **************************************************/
 
 #include <iostream>
