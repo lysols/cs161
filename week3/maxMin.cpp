@@ -15,11 +15,11 @@ int main() {
     cin >> totalNumbers;
     cout << "Please provide a number. \n";
 
-    // Start looping for user inputted numbers
+    // Start looping for user inputted number of times
     for (int i = 0; i < totalNumbers; i++) {
         cin >> userNumber;
         cout << "Please provide another number." << endl;
-        if (i == 0) {
+        if (i == 0) {     // Initializing baseline for comparison
 	    highNum = userNumber;
 	    lowNum = userNumber;
         }
